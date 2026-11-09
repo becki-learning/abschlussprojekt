@@ -19,7 +19,7 @@ function startseite() {
     </style>
   </head>
   <body>
-    <h1>Hallo aus dem Abschlussprojekt! 🚀</h1>
+    <h1>Servus aus der Pipeline! 🐳</h1>
     <p>Gebaut von GitHub Actions, gespeichert in ECR, ausgerollt mit Terraform.</p>
     <table>
       <tr><td>Version (Commit)</td><td><code>${VERSION}</code></td></tr>
